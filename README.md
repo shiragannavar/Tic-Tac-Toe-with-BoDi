@@ -18,7 +18,7 @@ A modern, responsive Tic Tac Toe game built with Python, Flask, HTML, CSS, and J
 
 ## Demo
 
-![screenshot](screenshot.png)
+![screenshot](static/screenshot.png)
 
 ---
 
